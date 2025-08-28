@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'JetBrains Mono';
+  src: url('/JetBrains_Mono/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
+}
+
+:root {
+  color-scheme: light dark;
+  background-color: #0A0A0A;
+  font-family: 'JetBrains Mono';
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
