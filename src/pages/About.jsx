@@ -89,7 +89,7 @@ const About = () => {
         fontSize: "16px"
       }}>
         Hi, I’m Adam — but most people online know me as <span style={{ fontWeight: "bold" }}>Ducky</span>.  
-        I have a passion to be know as "the computer kid of all time" and
+        I have a passion to be known as "the computer kid of all time" and
         I've realized in my past experiences that ill never learn using AI and i must teach myself.  
         This site is my portfolio, inspiration taken from itssharl.ee and brittanychiang.com .
       </p>

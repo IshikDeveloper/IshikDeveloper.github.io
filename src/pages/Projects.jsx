@@ -58,36 +58,37 @@ const Projects = () => {
       }}
     >
       {/* HEADER */}
-      <header
-        style={{
-          position: "fixed",
-          top: 0,
-          left: 0,
-          width: "100%",
-          padding: "15px 30px",
+      <div style={{
+        position: "absolute",
+        top: 20,
+        left: 20
+      }}>
+        <img src='/ducky.png' style={{ width: 50, height: 50 }} />
+      </div>
+        <div style={{
+          position: "absolute",
+          top: 20,
+          right: 20,
           display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-          background: "rgba(0,0,0,0.6)",
-          backdropFilter: "blur(6px)",
-          zIndex: 10,
-        }}
-      >
-        <img src="/ducky.png" alt="logo" style={{ width: 50, height: 50 }} />
-        <div style={{ display: "flex", gap: "20px" }}>
+          gap: "15px",
+          alignItems: "center"
+        }}>
           <MailOutline
             style={iconStyle}
             onClick={() => window.open("mailto:adam453345@gmail.com")}
+            onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
+            onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
           />
-          <DiGithub
+          <GitHub
             style={iconStyle}
             onClick={() => window.open("https://github.com/IshikDeveloper")}
+            onMouseEnter={(e) => (e.currentTarget.style.transform = "scale(1.1)")}
+            onMouseLeave={(e) => (e.currentTarget.style.transform = "scale(1)")}
           />
         </div>
-      </header>
 
       {/* BODY */}
-      <main style={{ marginTop: "100px", width: "100%", maxWidth: "1000px" }}>
+      <main style={{ marginTop: "100px", width: "100%", maxWidth: "1000px", overflowX: "hidden", }}>
         {/* TECH */}
         <SectionTitle text="Languages & Frameworks I Use" />
         <LogoLoop logos={techLogos} logoHeight={64} speed={250} />
@@ -164,7 +165,6 @@ const btnStyle = {
   backgroundColor: "transparent",
   border: "none",
   fontFamily: "JetBrains Mono",
-  color: "#00FF50",
   cursor: "pointer",
   fontSize: "1rem",
   padding: "6px 12px",
