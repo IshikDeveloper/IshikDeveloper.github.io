@@ -337,7 +337,7 @@ input[type="button"] {
     -webkit-background-clip: padding;
     background-clip: padding-box;
     border-radius: 11px;
-    background: #ddd url(/sites/default/themes/omega/omega/images/button.png) repeat-x;
+    background: #ddd url(https://play.cpzero.net/sites/default/themes/omega/omega/images/button.png) repeat-x;
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #ddd));
     background: -moz-linear-gradient(top center, #fff 0%, #ddd 100%);
     border: 1px solid;
@@ -476,7 +476,7 @@ select[multiple] {
 
 @media (-webkit-min-device-pixel-ratio:0) {
     select {
-        background-image: url(/sites/default/themes/omega/omega/images/select-arrow.gif);
+        background-image: url(https://play.cpzero.net/sites/default/themes/omega/omega/images/select-arrow.gif);
         background-repeat: no-repeat;
         background-position: right center;
         padding-right: 20px;
@@ -504,7 +504,7 @@ optgroup {
 
 .ie6-button,
 * html button {
-    background: #ddd url(/sites/default/themes/omega/omega/images/button.png) repeat-x;
+    background: #ddd url(https://play.cpzero.net/sites/default/themes/omega/omega/images/button.png) repeat-x;
     border: 1px solid;
     border-color: #ddd #bbb #999;
     cursor: pointer;
@@ -623,7 +623,7 @@ a#modal-close {
     position: absolute;
     right: -25px;
     top: -18px;
-    background: url(/sites/default/themes/club_penguin/img/components/modal/btn_close.png) top left no-repeat;
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/components/modal/btn_close.png) top left no-repeat;
     width: 44px;
     height: 44px;
     text-indent: -9999px;
@@ -918,7 +918,7 @@ ol li {
     position: absolute;
     top: 4px;
     right: 0px;
-    background: url(/sites/default/themes/club_penguin/img/common/sprite.png) 0px -490px no-repeat;
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/sprite.png) 0px -490px no-repeat;
     width: 32px;
     height: 32px;
     text-indent: -9999px;
@@ -956,7 +956,7 @@ ol li {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     border-radius: 5px;
-    behavior: url(/sites/default/themes/club_penguin/css/pie/PIE.htc);
+    behavior: url(https://play.cpzero.net/sites/default/themes/club_penguin/css/pie/PIE.htc);
 }
 
 #cboxContent {
@@ -975,7 +975,7 @@ ol li {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    behavior: url(/sites/default/themes/club_penguin/css/pie/PIE.htc);
+    behavior: url(https://play.cpzero.net/sites/default/themes/club_penguin/css/pie/PIE.htc);
     overflow: hidden;
 }
 
@@ -1007,7 +1007,7 @@ ol li {
     position: absolute;
     bottom: 43%;
     left: 40px;
-    background: url(/sites/default/themes/club_penguin/img/common/sprite.png) -47px -550px no-repeat;
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/sprite.png) -47px -550px no-repeat;
     width: 22px;
     height: 50px;
     text-indent: -9999px;
@@ -1018,7 +1018,7 @@ ol li {
     bottom: 43%;
     left: auto;
     right: 30px;
-    background: url(/sites/default/themes/club_penguin/img/common/sprite.png) -47px -490px no-repeat;
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/sprite.png) -47px -490px no-repeat;
     width: 22px;
     height: 50px;
     text-indent: -9999px;
@@ -1082,10 +1082,10 @@ a.cp-button-play-feature {
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
     border-radius: 6px;
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -moz-linear-gradient(270deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -webkit-linear-gradient(270deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, linear-gradient(-180deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -moz-linear-gradient(270deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -webkit-linear-gradient(270deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, linear-gradient(-180deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
     -moz-box-shadow: #B89300 0 4px 0, rgba(0, 0, 0, 0.2) 0 6px 0;
     -webkit-box-shadow: #B89300 0 4px 0, rgba(0, 0, 0, 0.2) 0 6px 0;
     box-shadow: #B89300 0 4px 0, rgba(0, 0, 0, 0.2) 0 6px 0;
@@ -1100,10 +1100,10 @@ a.cp-button-play-feature {
 }
 
 a.cp-button-play-feature:hover {
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -moz-linear-gradient(90deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -webkit-linear-gradient(90deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, linear-gradient(0deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTk5MSIvPjxzdG9wIG9mZnNldD0iMTAlIiBzdG9wLWNvbG9yPSIjZmZkYzRmIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjYzAwIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0idXJsKCNncmFkKSIgLz48L3N2Zz4g');
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -moz-linear-gradient(90deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -webkit-linear-gradient(90deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, linear-gradient(0deg, #ffe991 0%, #ffdc4f 10%, #ffcc00 100%);
     -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
     -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
     box-shadow: rgba(0, 0, 0, 0.2) 0 2px 0;
@@ -1122,10 +1122,10 @@ a.cp-button-play {
     -moz-border-radius: 10px;
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTQ3NyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmY2MwMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -moz-linear-gradient(270deg, #ffe477 0%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -webkit-linear-gradient(270deg, #ffe477 0%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, linear-gradient(-180deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTQ3NyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmY2MwMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -moz-linear-gradient(270deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, -webkit-linear-gradient(270deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center 0, linear-gradient(-180deg, #ffe477 0%, #ffcc00 100%);
     -moz-box-shadow: #FFF7D7 0 2px 0 0 inset, rgba(0, 0, 0, 0.15) 0 3px 0;
     -webkit-box-shadow: #FFF7D7 0 2px 0 0 inset, rgba(0, 0, 0, 0.15) 0 3px 0;
     box-shadow: #FFF7D7 0 2px 0 0 inset, rgba(0, 0, 0, 0.15) 0 3px 0;
@@ -1147,10 +1147,10 @@ a.cp-button-play:visited {
 }
 
 a.cp-button-play:hover {
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTQ3NyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmY2MwMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -moz-linear-gradient(90deg, #ffe477 0%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -webkit-linear-gradient(90deg, #ffe477 0%, #ffcc00 100%);
-    background: url(/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, linear-gradient(0deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjEuMCIgeDI9IjAuNSIgeTI9IjAuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZTQ3NyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmY2MwMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -moz-linear-gradient(90deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, -webkit-linear-gradient(90deg, #ffe477 0%, #ffcc00 100%);
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-shine-play.png) no-repeat center -100px, linear-gradient(0deg, #ffe477 0%, #ffcc00 100%);
 }
 
 a.cp-button-yellow {
@@ -1501,7 +1501,7 @@ body.page-gate #agegate-wrap #agegate h3.question {
 }
 
 #agegate-wrap {
-    background-image: url(/sites/default/themes/club_penguin/img/common/agegate_bg-1536.jpg);
+    background-image: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/agegate_bg-1536.jpg);
     background-repeat: no-repeat;
     background-position: 45% top;
     background-size: cover;
@@ -1699,7 +1699,7 @@ screen and (max-height:480px) and (orientation:portrait) {
 @media screen and (min-device-width:1536px),
 screen and (min-width:1536px) {
     #agegate-wrap {
-        background-image: url(/sites/default/themes/club_penguin/img/common/agegate_bg.jpg);
+        background-image: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/agegate_bg.jpg);
         background-repeat: no-repeat;
         background-position: 40% top;
         background-size: cover;
@@ -1709,7 +1709,7 @@ screen and (min-width:1536px) {
 @media screen and (min-device-width:1280px) and (max-device-width:1536px),
 screen and (max-width:1536px) {
     #agegate-wrap {
-        background-image: url(/sites/default/themes/club_penguin/img/common/agegate_bg-1536.jpg);
+        background-image: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/agegate_bg-1536.jpg);
         background-repeat: no-repeat;
         background-position: 45% top;
         background-size: cover;
@@ -1718,7 +1718,7 @@ screen and (max-width:1536px) {
 
 @media screen and (max-device-width:1280px) {
     #agegate-wrap {
-        background-image: url(/sites/default/themes/club_penguin/img/common/agegate_bg-1280.jpg);
+        background-image: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/agegate_bg-1280.jpg);
         background-repeat: no-repeat;
         background-position: 40% top;
         background-size: cover;
@@ -1809,7 +1809,7 @@ img {
     display: block;
     width: 23px;
     height: 23px;
-    background: url("/sites/default/themes/snowball/img/icon-ticker-close.png") no-repeat 0 0;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/icon-ticker-close.png") no-repeat 0 0;
     background-size: 23px auto;
 }
 
@@ -1824,7 +1824,7 @@ header {
 }
 
 header div#affiliate-header {
-    background: url("/sites/default/themes/snowball/img/pattern-bg.png") repeat center 0;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/pattern-bg.png") repeat center 0;
 }
 
 header div#affiliate-header a#logo {
@@ -1891,7 +1891,7 @@ header nav #language-select a.top-level span.indicator {
     margin: 0;
     padding: 0 12px;
     background-color: #007ad2;
-    background-image: url("/sites/default/themes/snowball/img/language-arrow.png");
+    background-image: url("https://play.cpzero.net/sites/default/themes/snowball/img/language-arrow.png");
     background-repeat: no-repeat;
     background-position: -13px 8px;
     vertical-align: middle;
@@ -1959,7 +1959,7 @@ header nav ul.mainnav {
     display: block;
     float: left;
     margin-top: -1px;
-    background: url("/sites/default/themes/snowball/img/gt.png") no-repeat 0 center;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/gt.png") no-repeat 0 center;
 }
 
 header nav ul.mainnav a {
@@ -1999,7 +1999,7 @@ header nav a {
 }
 
 header nav a#home-link {
-    background: url("/sites/default/themes/snowball/img/icon-home.png") no-repeat 0 0;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/icon-home.png") no-repeat 0 0;
     display: block;
     float: left;
     width: 20px;
@@ -2048,7 +2048,7 @@ header #banner {
     padding-left: 15px;
     margin: 0 auto;
     width: 980px;
-    background: url("/sites/default/themes/snowball/img/banner.png") no-repeat 0px 0px;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/banner.png") no-repeat 0px 0px;
     background-size: 100% 47px;
     line-height: 47px;
 }
@@ -2061,7 +2061,7 @@ header #banner a {
     position: absolute;
     right: 0px;
     padding: 0px 75px;
-    background: url("/sites/default/themes/snowball/img/membership-button.png") no-repeat 0px 5px;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/membership-button.png") no-repeat 0px 5px;
     background-size: 97%;
     color: #6a4e27;
 }
@@ -2076,7 +2076,7 @@ main #error {
     margin: 0px 0 0 -378px;
     width: 760px;
     height: 480px;
-    background-image: url(/play/upgrade/images/expressInstall.png);
+    background-image: url(https://play.cpzero.net/play/upgrade/images/expressInstall.png);
 }
 
 main #error .errorText {
@@ -2125,7 +2125,7 @@ main #ingame-error {
     width: 354px;
     height: 220px;
     z-index: 160;
-    background: url("/play/images/prompt_no_button.png") 0 0 no-repeat;
+    background: url("https://play.cpzero.net/play/images/prompt_no_button.png") 0 0 no-repeat;
 }
 
 main #ingame-error .errorText {
@@ -2148,7 +2148,7 @@ main #ingame-error #ok-button {
     left: 96px;
     width: 159px;
     height: 52px;
-    background: url("/play/images/prompt_button_up.png") 0 0 no-repeat;
+    background: url("https://play.cpzero.net/play/images/prompt_button_up.png") 0 0 no-repeat;
     border: 0;
     line-height: 52px;
     text-align: center;
@@ -2159,11 +2159,11 @@ main #ingame-error #ok-button {
 }
 
 main #ingame-error #ok-button:hover {
-    background-image: url("/play/images/prompt_button_over.png");
+    background-image: url("https://play.cpzero.net/play/images/prompt_button_over.png");
 }
 
 main #ingame-error #ok-button:active {
-    background-image: url("/play/images/prompt_button_down.png");
+    background-image: url("https://play.cpzero.net/play/images/prompt_button_down.png");
 }
 
 main section#D_F_GameSection {
@@ -2182,7 +2182,7 @@ main section#D_F_GameSection #mp_client {
 
 main section#maintenance-message {
     min-height: 500px;
-    background: url("/sites/default/themes/snowball/img/404.jpg") no-repeat;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/404.jpg") no-repeat;
     background-position: center;
 }
 
@@ -2210,7 +2210,7 @@ main section#maintenance-message div.message .button-wrap {
     margin: 0;
     padding: 20px 0 0;
     overflow: hidden;
-    background: transparent url(/sites/default/themes/snowball/img/bottom-fade.png) repeat-x 0 -30px;
+    background: transparent url(https://play.cpzero.net/sites/default/themes/snowball/img/bottom-fade.png) repeat-x 0 -30px;
 }
 
 main section#maintenance-message div.message .button-wrap a.type-play {
@@ -2228,7 +2228,7 @@ main section#maintenance-message div.message .button-wrap a.type-play {
     font-weight: normal;
     text-shadow: 0 1px 2px rgba(255, 255, 255, 0.9), 0 -1px 0 rgba(0, 0, 0, 0.3);
     text-decoration: none;
-    background: transparent url(/sites/default/themes/snowball/img/button-play-bg.png) no-repeat 0 0;
+    background: transparent url(https://play.cpzero.net/sites/default/themes/snowball/img/button-play-bg.png) no-repeat 0 0;
 }
 
 main section#maintenance-message div.message .button-wrap a.type-play:hover {
@@ -2271,7 +2271,7 @@ main section#billboards .membership-button {
     text-align: center;
     line-height: 48px;
     color: #fff;
-    background: url(/sites/default/themes/club_penguin/img/common/button-membership.png) 0 0 no-repeat;
+    background: url(https://play.cpzero.net/sites/default/themes/club_penguin/img/common/button-membership.png) 0 0 no-repeat;
     box-sizing: border-box;
 }
 
@@ -2288,7 +2288,7 @@ main section#actions {
     width: 980px;
     min-width: 980px;
     text-align: center;
-    background: url("/sites/default/themes/snowball/img/action-bg-tile.gif") repeat 0 0;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/action-bg-tile.gif") repeat 0 0;
     border-radius: 5px;
     box-sizing: border-box;
 }
@@ -2310,7 +2310,7 @@ main section#actions div#create {
     position: absolute;
     left: 0;
     padding-left: 115px;
-    background: url("/sites/default/themes/snowball/img/penguin-stencil.png") no-repeat 15px 10px;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/penguin-stencil.png") no-repeat 15px 10px;
     text-align: left;
 }
 
@@ -2318,7 +2318,7 @@ main section#actions div#login {
     position: absolute;
     right: 0;
     padding-right: 115px;
-    background: url("/sites/default/themes/snowball/img/penguin-tourguide.png") no-repeat 228px 8px;
+    background: url("https://play.cpzero.net/sites/default/themes/snowball/img/penguin-tourguide.png") no-repeat 228px 8px;
     text-align: right;
 }
 
